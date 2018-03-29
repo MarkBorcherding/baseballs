@@ -1,0 +1,991 @@
+Round,Over All, Team,Player
+1,1,Mammoths,Mike Trout  (LAA - CF)
+1,2,Neuman's Crew,Mookie Betts  (Bos - RF)
+1,3,BK Foot Lettuce,Nolan Arenado  (Col - 3B)
+1,4,my witty team name,José Altuve  (Hou - 2B)
+1,5,I've Got the Runs,Bryce Harper  (Was - RF)
+1,6,Team for Sale,"Eduardo Núñez  (Bos - 2B,3B,SS,LF)"
+1,7,Rowdy Owls,Trea Turner  (Was - SS)
+1,8,The Continental,"Buster Posey  (SF - C,1B)"
+1,9,Fail Recursion,Corey Kluber  (Cle - SP)
+1,10,Toothless Budgies,Joey Votto  (Cin - 1B)
+2,20,Mammoths,"Kris Bryant  (ChC - 3B,RF)"
+2,19,Neuman's Crew,Max Scherzer  (Was - SP)
+2,18,BK Foot Lettuce,Noah Syndergaard  (NYM - SP)
+2,17,my witty team name,Aaron Judge  (NYY - RF)
+2,16,I've Got the Runs,Giancarlo Stanton  (NYY - RF)
+2,15,Team for Sale,Chris Sale  (Bos - SP)
+2,14,Rowdy Owls,Charlie Blackmon  (Col - CF)
+2,13,The Continental,Clayton Kershaw  (LAD - SP)
+2,12,Fail Recursion,Paul Goldschmidt  (Ari - 1B)
+2,11,Toothless Budgies,Marcell Ozuna  (StL - LF)
+3,21,Mammoths,"Anthony Rizzo  (ChC - 1B,2B)"
+3,22,Neuman's Crew,"Freddie Freeman  (Atl - 1B,3B)"
+3,23,BK Foot Lettuce,Carlos Correa  (Hou - SS)
+3,24,my witty team name,Manny Machado  (Bal - 3B)
+3,25,I've Got the Runs,Francisco Lindor  (Cle - SS)
+3,26,Team for Sale,J.D. Martinez  (Bos - RF)
+3,27,Rowdy Owls,"José Ramírez  (Cle - 2B,3B)"
+3,28,The Continental,Stephen Strasburg  (Was - SP)
+3,29,Fail Recursion,"Rhys Hoskins  (Phi - 1B,LF)"
+3,30,Toothless Budgies,Madison Bumgarner  (SF - SP)
+4,40,Mammoths,Carlos Martínez  (StL - SP)
+4,39,Neuman's Crew,"Cody Bellinger  (LAD - 1B,LF)"
+4,38,BK Foot Lettuce,Yu Darvish  (ChC - SP)
+4,37,my witty team name,"George Springer  (Hou - CF,RF)"
+4,36,I've Got the Runs,Jacob deGrom  (NYM - SP)
+4,35,Team for Sale,Gary Sánchez  (NYY - C)
+4,34,Rowdy Owls,Justin Verlander  (Hou - SP)
+4,33,The Continental,Carlos Carrasco  (Cle - SP)
+4,32,Fail Recursion,Luis Severino  (NYY - SP)
+4,31,Toothless Budgies,"Alex Bregman  (Hou - 3B,SS)"
+5,41,Mammoths,Nelson Cruz  (Sea - RF)
+5,42,Neuman's Crew,Josh Donaldson  (Tor - 3B)
+5,43,BK Foot Lettuce,Christian Yelich  (Mil - CF)
+5,44,my witty team name,José Abreu  (CWS - 1B)
+5,45,I've Got the Runs,Zack Greinke  (Ari - SP)
+5,46,Team for Sale,Corey Seager  (LAD - SS)
+5,47,Rowdy Owls,Chris Archer  (TB - SP)
+5,48,The Continental,Brian Dozier  (Min - 2B)
+5,49,Fail Recursion,"Matt Carpenter  (StL - 1B,2B,3B)"
+5,50,Toothless Budgies,Robbie Ray  (Ari - SP)
+6,60,Mammoths,Kenley Jansen  (LAD - P)
+6,59,Neuman's Crew,Dallas Keuchel  (Hou - SP)
+6,58,BK Foot Lettuce,Willson Contreras  (ChC - C)
+6,57,my witty team name,José Quintana  (ChC - SP)
+6,56,I've Got the Runs,"Andrew Benintendi  (Bos - LF,CF)"
+6,55,Team for Sale,Rich Hill  (LAD - SP)
+6,54,Rowdy Owls,Justin Upton  (LAA - LF)
+6,53,The Continental,Edwin Encarnacion  (Cle - 1B)
+6,52,Fail Recursion,Anthony Rendon  (Was - 3B)
+6,51,Toothless Budgies,Aaron Nola  (Phi - SP)
+7,61,Mammoths,Craig Kimbrel  (Bos - P)
+7,62,Neuman's Crew,Xander Bogaerts  (Bos - SS)
+7,63,BK Foot Lettuce,"Andrew McCutchen  (SF - CF,RF)"
+7,64,my witty team name,"Tommy Pham  (StL - LF,CF)"
+7,65,I've Got the Runs,Dee Gordon  (Sea - 2B)
+7,66,Team for Sale,Khris Davis  (Oak - LF)
+7,67,Rowdy Owls,Jonathan Schoop  (Bal - 2B)
+7,68,The Continental,James Paxton  (Sea - SP)
+7,69,Fail Recursion,"Carlos Santana  (Phi - 1B,RF)"
+7,70,Toothless Budgies,Robinson Canó  (Sea - 2B)
+8,80,Mammoths,Daniel Murphy  (Was - 2B)
+8,79,Neuman's Crew,Zack Godley  (Ari - SP)
+8,78,BK Foot Lettuce,Kyle Hendricks  (ChC - SP)
+8,77,my witty team name,Lance McCullers Jr.  (Hou - SP)
+8,76,I've Got the Runs,Gerrit Cole  (Hou - SP)
+8,75,Team for Sale,Aroldis Chapman  (NYY - P)
+8,74,Rowdy Owls,Eric Hosmer  (SD - 1B)
+8,73,The Continental,Wil Myers  (SD - 1B)
+8,72,Fail Recursion,Masahiro Tanaka  (NYY - SP)
+8,71,Toothless Budgies,"Starling Marte  (Pit - LF,CF)"
+9,81,Mammoths,Elvis Andrus  (Tex - SS)
+9,82,Neuman's Crew,Byron Buxton  (Min - CF)
+9,83,BK Foot Lettuce,DJ LeMahieu  (Col - 2B)
+9,84,my witty team name,Cody Allen  (Cle - P)
+9,85,I've Got the Runs,Luis Castillo  (Cin - SP)
+9,86,Team for Sale,Andrew Miller  (Cle - P)
+9,87,Rowdy Owls,Miguel Cabrera  (Det - 1B)
+9,88,The Continental,David Price  (Bos - SP)
+9,89,Fail Recursion,Jake Lamb  (Ari - 3B)
+9,90,Toothless Budgies,Domingo Santana  (Mil - RF)
+10,100,Mammoths,José Berríos  (Min - SP)
+10,99,Neuman's Crew,"Chris Taylor  (LAD - 2B,SS,LF,CF)"
+10,98,BK Foot Lettuce,Alex Wood  (LAD - SP)
+10,97,my witty team name,Corey Knebel  (Mil - P)
+10,96,I've Got the Runs,"Miguel Sanó  (Min - 1B,3B)"
+10,95,Team for Sale,Jake Arrieta  (Phi - SP)
+10,94,Rowdy Owls,Jon Lester  (ChC - SP)
+10,93,The Continental,Kyle Seager  (Sea - 3B)
+10,92,Fail Recursion,"Matt Olson  (Oak - 1B,RF)"
+10,91,Toothless Budgies,Luke Weaver  (StL - SP)
+11,101,Mammoths,Ryan Braun  (Mil - LF)
+11,102,Neuman's Crew,Yasiel Puig  (LAD - RF)
+11,103,BK Foot Lettuce,"Eric Thames  (Mil - 1B,LF)"
+11,104,my witty team name,Roberto Osuna  (Tor - P)
+11,105,I've Got the Runs,Yoenis Céspedes  (NYM - LF)
+11,106,Team for Sale,Adrián Béltre  (Tex - 3B)
+11,107,Rowdy Owls,Jon Gray  (Col - SP)
+11,108,The Continental,Trevor Story  (Col - SS)
+11,109,Fail Recursion,"Brett Gardner  (NYY - LF,CF)"
+11,110,Toothless Budgies,Yadier Molina  (StL - C)
+12,120,Mammoths,Salvador Perez  (KC - C)
+12,119,Neuman's Crew,Travis Shaw  (Mil - 3B)
+12,118,BK Foot Lettuce,Kenta Maeda  (LAD - SP)
+12,117,my witty team name,Jean Segura  (Sea - SS)
+12,116,I've Got the Runs,Johnny Cueto  (SF - SP)
+12,115,Team for Sale,"Joey Gallo  (Tex - 1B,3B,LF)"
+12,114,Rowdy Owls,Josh Hader  (Mil - P)
+12,113,The Continental,Eugenio Suárez  (Cin - 3B)
+12,112,Fail Recursion,"Nomar Mazara  (Tex - LF,RF)"
+12,111,Toothless Budgies,Rafael Devers  (Bos - 3B)
+13,121,Mammoths,Sonny Gray  (NYY - SP)
+13,122,Neuman's Crew,Charlie Morton  (Hou - SP)
+13,123,BK Foot Lettuce,Josh Bell  (Pit - 1B)
+13,124,my witty team name,Adam Wainwright  (StL - SP)
+13,125,I've Got the Runs,Justin Turner  (LAD - 3B)
+13,126,Team for Sale,Dexter Fowler  (StL - CF)
+13,127,Rowdy Owls,Trevor Bauer  (Cle - SP)
+13,128,The Continental,"Nicholas Castellanos  (Det - 3B,RF)"
+13,129,Fail Recursion,Jameson Taillon  (Pit - SP)
+13,130,Toothless Budgies,"Paul DeJong  (StL - 2B,SS)"
+14,140,Mammoths,"Whit Merrifield  (KC - 2B,RF)"
+14,139,Neuman's Crew,Ken Giles  (Hou - P)
+14,138,BK Foot Lettuce,Hyun-Jin Ryu  (LAD - SP)
+14,137,my witty team name,Raisel Iglesias  (Cin - P)
+14,136,I've Got the Runs,Edwin Díaz  (Sea - P)
+14,135,Team for Sale,Sean Doolittle  (Was - P)
+14,134,Rowdy Owls,"Jay Bruce  (NYM - 1B,RF)"
+14,133,The Continental,David Robertson  (NYY - P)
+14,132,Fail Recursion,"J.T. Realmuto  (Mia - C,1B)"
+14,131,Toothless Budgies,Gio Gonzalez  (Was - SP)
+15,141,Mammoths,Marcus Stroman  (Tor - SP)
+15,142,Neuman's Crew,Brad Hand  (SD - P)
+15,143,BK Foot Lettuce,"Brandon Belt  (SF - 1B,LF)"
+15,144,my witty team name,Billy Hamilton  (Cin - CF)
+15,145,I've Got the Runs,Brandon Morrow  (ChC - P)
+15,146,Team for Sale,Pat Neshek  (Phi - P)
+15,147,Rowdy Owls,Dinelson Lamet  (SD - SP)
+15,148,The Continental,Chad Green  (NYY - P)
+15,149,Fail Recursion,Joe Musgrove  (Pit - SP)
+15,150,Toothless Budgies,Aaron Sanchez  (Tor - SP)
+16,160,Mammoths,Justin Smoak  (Tor - 1B)
+16,159,Neuman's Crew,"Marwin González  (Hou - 1B,2B,3B,SS,LF)"
+16,158,BK Foot Lettuce,Mike Clevinger  (Cle - SP)
+16,157,my witty team name,Kyle Schwarber  (ChC - LF)
+16,156,I've Got the Runs,"Javier Báez  (ChC - 2B,SS)"
+16,155,Team for Sale,"Max Kepler  (Min - CF,RF)"
+16,154,Rowdy Owls,"Ian Happ  (ChC - 2B,LF,CF,RF)"
+16,153,The Continental,Felipe Rivero  (Pit - P)
+16,152,Fail Recursion,Danny Salazar  (Cle - SP)
+16,151,Toothless Budgies,Evan Longoria  (SF - 3B)
+17,161,Mammoths,Héctor Neris  (Phi - P)
+17,162,Neuman's Crew,Chase Anderson  (Mil - SP)
+17,163,BK Foot Lettuce,Miles Mikolas  (StL - SP)
+17,164,my witty team name,Wade Davis  (Col - P)
+17,165,I've Got the Runs,Garrett Richards  (LAA - SP)
+17,166,Team for Sale,Chris Davis  (Bal - 1B)
+17,167,Rowdy Owls,"Gregory Polanco  (Pit - LF,RF)"
+17,168,The Continental,"Michael Conforto  (NYM - LF,CF,RF)"
+17,169,Fail Recursion,Chris Devenski  (Hou - P)
+17,170,Toothless Budgies,Albert Pujols  (LAA - 1B)
+18,180,Mammoths,Mike Zunino  (Sea - C)
+18,179,Neuman's Crew,Robinson Chirinos  (Tex - C)
+18,178,BK Foot Lettuce,Nick Markakis  (Atl - RF)
+18,177,my witty team name,"Jason Kipnis  (Cle - 2B,CF)"
+18,176,I've Got the Runs,Wilson Ramos  (TB - C)
+18,175,Team for Sale,Dellin Betances  (NYY - P)
+18,174,Rowdy Owls,Jake Faria  (TB - SP)
+18,173,The Continental,Adam Eaton  (Was - CF)
+18,172,Fail Recursion,"J.P. Crawford  (Phi - 3B,SS)"
+18,171,Toothless Budgies,Michael Fulmer  (Det - SP)
+19,181,Mammoths,Jeff Samardzija  (SF - SP)
+19,182,Neuman's Crew,Carl Edwards Jr.  (ChC - P)
+19,183,BK Foot Lettuce,Steven Matz  (NYM - SP)
+19,184,my witty team name,"Trey Mancini  (Bal - 1B,LF)"
+19,185,I've Got the Runs,Blake Snell  (TB - SP)
+19,186,Team for Sale,"Yangervis Solarte  (Tor - 2B,3B,SS)"
+19,187,Rowdy Owls,"Asdrúbal Cabrera  (NYM - 2B,3B,SS)"
+19,188,The Continental,Juan Nicasio  (Sea - P)
+19,189,Fail Recursion,Dansby Swanson  (Atl - SS)
+19,190,Toothless Budgies,Alex Colomé  (TB - P)
+20,200,Mammoths,Tyler Chatwood  (ChC - SP)
+20,199,Neuman's Crew,Félix Hernández  (Sea - SP)
+20,198,BK Foot Lettuce,Ian Kinsler  (LAA - 2B)
+20,197,my witty team name,Evan Gattis  (Hou - C)
+20,196,I've Got the Runs,"Eddie Rosario  (Min - LF,CF,RF)"
+20,195,Team for Sale,Brian McCann  (Hou - C)
+20,194,Rowdy Owls,Jonathan Lucroy  (Oak - C)
+20,193,The Continental,Todd Frazier  (NYM - 3B)
+20,192,Fail Recursion,Kole Calhoun  (LAA - RF)
+20,191,Toothless Budgies,Lance Lynn  (Min - SP)
+21,201,Mammoths,Arodys Vizcaíno  (Atl - P)
+21,202,Neuman's Crew,Drew Pomeranz  (Bos - SP)
+21,203,BK Foot Lettuce,Nate Jones  (CWS - P)
+21,204,my witty team name,Tyler Glasnow  (Pit - SP)
+21,205,I've Got the Runs,Taijuan Walker  (Ari - SP)
+21,206,Team for Sale,"Josh Reddick  (Hou - LF,CF,RF)"
+21,207,Rowdy Owls,Kirby Yates  (SD - P)
+21,208,The Continental,Ozzie Albies  (Atl - 2B)
+21,209,Fail Recursion,Giovanny Gallegos  (NYY - P)
+21,210,Toothless Budgies,"Aaron Altherr  (Phi - LF,CF,RF)"
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
+,0,,
