@@ -11,11 +11,9 @@ RBI_m = mean(batters$RBI)
 RBI_sd = sd(batters$RBI)
 batters$RBI_Score <- with(batters, (RBI - RBI_m) / RBI_sd)
 
-
 BB_m = mean(batters$BB)
 BB_sd = sd(batters$BB)
 batters$BB_Score <- with(batters, (BB - BB_m) / BB_sd)
-
 
 TB_m = mean(batters$TB)
 TB_sd = sd(batters$TB)
@@ -28,5 +26,19 @@ batters$OBP_Score <- with(batters, (OBP - OBP_m) / OBP_sd)
 batters$TotalScore <- with(batters, R_Score + RBI_Score + BB_Score + TB_Score + OBP_Score)
 
 batters <- batters[with(batters, order(-TotalScore)),]
+
+
+
+
+library(tidyr)
+positions <- read.csv("./data/2017-player-position-appearances.csv")
+positions <- separate(positions, Name, c("Name", "ID"), sep = "\\\\")
+
+
+pitchers <- read.csv("./data/2018-in-season-pitching-standard.csv")
+pitchers$K_9 <- with(pitchers, SO / (IP / 9))
+pitchers$K_BB <- with(pitchers, SO / (BB + IBB))
+pitchers$OBPA <- with(pitchers, (H + BB + IBB) / TBF)
+
 
 write.csv(batters, file="./2018-score-batters.csv")
