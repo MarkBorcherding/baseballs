@@ -1,5 +1,6 @@
 library(RCurl)
 library(XML)
+library(tidyr)
 
 battingStats <- function(startDate, endDate){
   url <- paste(
@@ -29,10 +30,10 @@ battingStats <- function(startDate, endDate){
     val <- xmlValue(node)
     td <- xmlName(node) == "td"
     if(td & stat == "player"){
-      #mlb_id <- gsub(".*mlb_ID=", "", xmlGetAttr(node, "data-append-csv"))
+      mlb_id <- gsub(".*mlb_ID=", "", xmlGetAttr(node, "data-append-csv"))
       paste(
         val,
-        "mlb_id",
+        mlb_id,
         sep = "::")
     } else {
       as.character(val)
@@ -40,10 +41,19 @@ battingStats <- function(startDate, endDate){
   }
 
   table <-
-    readHTMLTable(
-      getURL(url, .opts = list(followlocation = TRUE)),
-      elFun = extractMLB_ID,
-      )$daily
+    getURL(url, .opts = list(followlocation = TRUE)) %>%
+    readHTMLTable(elFun = extractMLB_ID) %>%
+    with(daily)
 
-  return (table[table$RBI != "RBI", ])
+  # remove the heading rows  mixed in
+  table <- table[table$RBI != "RBI", ] 
+
+  # Parse the name column to separate the name from the id
+  n <- table$Name %>%
+       as.data.frame %>%
+       separate(col=1, into=c("Name", "MLB_ID"), sep="::")
+  table$Name <- n$Name
+  table$MLB_ID <- n$MLB_ID
+
+  return (table)
 }
